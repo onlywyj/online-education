@@ -8,22 +8,29 @@
 
 - Spring Boot
 - Spring Cloud
+- MySQL
 - Mybatis-Plus
 - Spring Security
-- Redi
 - Maven
 - EasyExcel
 - JWT
 - OAuth2
+- HttpClient
 - ...
 
 #### 前端
 
-- Vue + element-ui + axios + node.js
+- Node.js
+- Vue.js
+- Nuxt.js
+- Element-ui 
+- ECharts
 - ...
 
 #### 其他
 
+- Redis
+- Swagger2
 - 阿里云 OSS
 - 阿里云视频点播服务
 - 阿里云短信服务
